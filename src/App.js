@@ -39,7 +39,7 @@ function App() {
 
   return (
     <div >
-      <h1> PIAIC Boot Camp 2020 : 40 Material UI Components in One Project </h1>
+      <h1> PIAIC Boot Camp 2020 : 31 Material UI Components in One Project </h1>
       <h1> To Help students Learn and Practice of React Material UI Designs</h1>
       <h2> Muhammad Javaid Nawab 17-10-2020</h2>
       
