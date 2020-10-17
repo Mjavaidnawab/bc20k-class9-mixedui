@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: PIAIC Boot Camp 2020 : 40 Material UI Components in One Project
+name: PIAIC Boot Camp 2020 40 Material UI Components in One Project
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
@@ -34,4 +34,4 @@ jobs:
       - name: installing surge
         run: npm install -g surge
       - name: deploying on surge
-        run: surge ./build http://bc20k-class9-40material-ui-components.surge.sh/ --token ${{ secrets.SURGE_TOKEN }}
+        run: surge ./build http://bc20k-class9-40-material-ui-components.surge.sh/ --token ${{ secrets.SURGE_TOKEN }}
