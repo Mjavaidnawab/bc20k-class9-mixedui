@@ -1,10 +1,5 @@
 import React from 'react';
-import { yellow } from '@material-ui/core/colors';
-import { ReactComponent as Logo } from "./logo.svg";
 import SvgIcon from "@material-ui/core/SvgIcon";
- 
-
-
 function HomeIcon(props) {
   
   return (
